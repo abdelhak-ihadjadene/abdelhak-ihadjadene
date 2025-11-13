@@ -1,16 +1,22 @@
+
 ## Hi there 👋
 
-<!--
-**abdelhak-ihadjadene/abdelhak-ihadjadene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdelhak — a software engineer from Algeria.
+I specialize in building frontend experiences with React, TypeScript, Tailwind CSS, and TanStack Query.
+I love turning UI designs into smooth, interactive interfaces using Motion and sometimes Figma for prototyping and brainstorming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Tech
+
+- React, TypeScript, Tailwind CSS, TanStack Query
+- Framer Motion for animation
+- Figma for UI design and sketching ideas
+
+---
+
+## About Me
+
+- Not a coffee or tea person ☕️❌
+- Anime fan — especially One Piece
+- I enjoy building things that are simple, useful, and easy to understand
